@@ -1,3 +1,5 @@
 title: Offensive Security Portfolio
-description: Red Team Projects and Reports
+description: Red team labs, tools, CTF writeups, and more.
 theme: jekyll-theme-hacker
+markdown: kramdown
+
